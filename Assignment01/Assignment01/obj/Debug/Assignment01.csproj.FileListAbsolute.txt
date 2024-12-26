@@ -1,0 +1,7 @@
+D:\C DAC\A-CDAC Class notes and pdfs\Ms.NET\Assignment01\Assignment01\bin\Debug\Assignment01.exe.config
+D:\C DAC\A-CDAC Class notes and pdfs\Ms.NET\Assignment01\Assignment01\bin\Debug\Assignment01.exe
+D:\C DAC\A-CDAC Class notes and pdfs\Ms.NET\Assignment01\Assignment01\bin\Debug\Assignment01.pdb
+D:\C DAC\A-CDAC Class notes and pdfs\Ms.NET\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.AssemblyReference.cache
+D:\C DAC\A-CDAC Class notes and pdfs\Ms.NET\Assignment01\Assignment01\obj\Debug\Assignment01.csproj.CoreCompileInputs.cache
+D:\C DAC\A-CDAC Class notes and pdfs\Ms.NET\Assignment01\Assignment01\obj\Debug\Assignment01.exe
+D:\C DAC\A-CDAC Class notes and pdfs\Ms.NET\Assignment01\Assignment01\obj\Debug\Assignment01.pdb
