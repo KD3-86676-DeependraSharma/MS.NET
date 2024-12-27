@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C DAC\\A-CDAC Class notes and pdfs\\Ms.NET\\Assignment01\\",
+  "WorkspaceRootPath": "D:\\C DAC\\my git Dac assignment data\\MS.NET\\Assignment01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{29F33ED4-6776-492C-87A4-12A1C0B89078}|Assignment01\\Assignment01.csproj|d:\\c dac\\a-cdac class notes and pdfs\\ms.net\\assignment01\\assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29F33ED4-6776-492C-87A4-12A1C0B89078}|Assignment01\\Assignment01.csproj|solutionrelative:assignment01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF79E78B-9D2A-4639-A820-4B49EF0059CF}|Assign01_Que_3\\Assign01_Que_3.csproj|d:\\c dac\\my git dac assignment data\\ms.net\\assignment01\\assign01_que_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF79E78B-9D2A-4639-A820-4B49EF0059CF}|Assign01_Que_3\\Assign01_Que_3.csproj|solutionrelative:assign01_que_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF949FC-D29A-4DD9-A5B9-5D792EE096BC}|Assign_01_Que_2\\Assign_01_Que_2.csproj|d:\\c dac\\my git dac assignment data\\ms.net\\assignment01\\assign_01_que_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DF949FC-D29A-4DD9-A5B9-5D792EE096BC}|Assign_01_Que_2\\Assign_01_Que_2.csproj|solutionrelative:assign_01_que_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2552D4DA-C93C-4251-9A9D-A8BCE453C0D2}|Assign01_que_1\\Assign01_que_1.csproj|d:\\c dac\\my git dac assignment data\\ms.net\\assignment01\\assign01_que_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2552D4DA-C93C-4251-9A9D-A8BCE453C0D2}|Assign01_que_1\\Assign01_que_1.csproj|solutionrelative:assign01_que_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +28,39 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\C DAC\\A-CDAC Class notes and pdfs\\Ms.NET\\Assignment01\\Assignment01\\Program.cs",
-              "RelativeDocumentMoniker": "Assignment01\\Program.cs",
-              "ToolTip": "D:\\C DAC\\A-CDAC Class notes and pdfs\\Ms.NET\\Assignment01\\Assignment01\\Program.cs*",
-              "RelativeToolTip": "Assignment01\\Program.cs*",
+              "DocumentMoniker": "D:\\C DAC\\my git Dac assignment data\\MS.NET\\Assignment01\\Assign01_Que_3\\Program.cs",
+              "RelativeDocumentMoniker": "Assign01_Que_3\\Program.cs",
+              "ToolTip": "D:\\C DAC\\my git Dac assignment data\\MS.NET\\Assignment01\\Assign01_Que_3\\Program.cs",
+              "RelativeToolTip": "Assign01_Que_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T09:07:51.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C DAC\\my git Dac assignment data\\MS.NET\\Assignment01\\Assign_01_Que_2\\Program.cs",
+              "RelativeDocumentMoniker": "Assign_01_Que_2\\Program.cs",
+              "ToolTip": "D:\\C DAC\\my git Dac assignment data\\MS.NET\\Assignment01\\Assign_01_Que_2\\Program.cs",
+              "RelativeToolTip": "Assign_01_Que_2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T12:12:15.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C DAC\\my git Dac assignment data\\MS.NET\\Assignment01\\Assign01_que_1\\Program.cs",
+              "RelativeDocumentMoniker": "Assign01_que_1\\Program.cs",
+              "ToolTip": "D:\\C DAC\\my git Dac assignment data\\MS.NET\\Assignment01\\Assign01_que_1\\Program.cs",
+              "RelativeToolTip": "Assign01_que_1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T11:28:07.616Z",
+              "WhenOpened": "2024-12-26T12:07:47.654Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,7 @@
+D:\C DAC\my git Dac assignment data\MS.NET\Assignment01\Assign01_Que_3\bin\Debug\Assign01_Que_3.exe.config
+D:\C DAC\my git Dac assignment data\MS.NET\Assignment01\Assign01_Que_3\bin\Debug\Assign01_Que_3.exe
+D:\C DAC\my git Dac assignment data\MS.NET\Assignment01\Assign01_Que_3\bin\Debug\Assign01_Que_3.pdb
+D:\C DAC\my git Dac assignment data\MS.NET\Assignment01\Assign01_Que_3\obj\Debug\Assign01_Que_3.csproj.AssemblyReference.cache
+D:\C DAC\my git Dac assignment data\MS.NET\Assignment01\Assign01_Que_3\obj\Debug\Assign01_Que_3.csproj.CoreCompileInputs.cache
+D:\C DAC\my git Dac assignment data\MS.NET\Assignment01\Assign01_Que_3\obj\Debug\Assign01_Que_3.exe
+D:\C DAC\my git Dac assignment data\MS.NET\Assignment01\Assign01_Que_3\obj\Debug\Assign01_Que_3.pdb
